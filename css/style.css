@@ -421,9 +421,15 @@ div[class^="col-sm-"] {
 	font-size: 100px;
 }
 
-#contact h1 span { 
+#contact h1 span, #contact h2 span { 
 	font-family: 'bebas_neuebold';
 	color: #56C0E0;
+}
+
+#contact h2 { 
+	font-family: 'bebas_neuebook';
+	color: #333;
+	font-size: 70px;
 }
 
 form input, form textarea { 
