@@ -421,7 +421,7 @@ div[class^="col-sm-"] {
 	font-size: 100px;
 }
 
-#contact h1 span, #contact h2 span { 
+#contact h1 span, #contact h2 span a { 
 	font-family: 'bebas_neuebold';
 	color: #56C0E0;
 }
