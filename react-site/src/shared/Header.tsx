@@ -18,6 +18,7 @@ export default function Header() {
           <Button href="/" color="inherit" sx={{ letterSpacing: 2, fontWeight: 700 }}>ATIB</Button>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
             <Button href="/ux" color="inherit">Work</Button>
+            <Button href="/portfolio" color="inherit">Portfolio</Button>
             <Button href="/about" color="inherit">About</Button>
             <Button href="#contact" color="inherit">Contact</Button>
             <Button href="/CV_ProductDesign_Atib.pdf" target="_blank" rel="noopener" variant="outlined">CV</Button>

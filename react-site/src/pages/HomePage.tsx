@@ -19,7 +19,7 @@ export default function HomePage() {
             </Typography>
             <Box sx={{ display: 'flex', gap: 1.5, flexWrap: 'wrap' }}>
               <Button href="#work" variant="contained">See selected work</Button>
-              <Button href="/Atib_DesignPortfolio.pdf" target="_blank" rel="noopener" variant="outlined">Download portfolio</Button>
+              <Button href="/portfolio" variant="outlined">View portfolio</Button>
             </Box>
           </Container>
         </Box>
